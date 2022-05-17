@@ -1,1 +1,0 @@
-functiona and nested loops
